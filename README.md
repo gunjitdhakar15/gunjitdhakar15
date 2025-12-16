@@ -1,7 +1,7 @@
 ### Hi there, I'm Gunjit! 👋
 
 🚀 **2025 Grad | IIT (BHU) Varanasi**
-Converting Civil Engineering discipline into Software Engineering velocity.
+Building scalable web apps with the discipline of an Engineer.
 
 - 🔭 I’m currently building **QuickPolls** (A MERN Stack Polling App)
 - 👯 I’m looking to collaborate on **Open Source MERN Projects**
