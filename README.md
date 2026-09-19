@@ -9,7 +9,7 @@ I build highly concurrent, fault-tolerant distributed systems. Backed by a rigor
 * ⚡ **Core CS:** Solved 700+ DSA problems across LeetCode, Codeforces, and GFG. Max Rating: 1811 (Knight).
 
 **The Arsenal (Tech Stack):**
-* **Languages:** C++, JavaScript (ES6+), Python, Go, SQL
+* **Languages:** C++, Go, JavaScript (ES6+), Python, , SQL
 * **Backend:** Node.js, Express.js, FastAPI, Kafka, MongoDB, Redis, PostgreSQL, Socket.IO
 * **Infrastructure & Tools:** Linux, Docker, Git, GitHub
 
